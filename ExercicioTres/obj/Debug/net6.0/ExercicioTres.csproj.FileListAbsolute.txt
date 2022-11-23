@@ -1,0 +1,15 @@
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\bin\Debug\net6.0\ExercicioTres.exe
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\bin\Debug\net6.0\ExercicioTres.deps.json
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\bin\Debug\net6.0\ExercicioTres.runtimeconfig.json
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\bin\Debug\net6.0\ExercicioTres.dll
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\bin\Debug\net6.0\ExercicioTres.pdb
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.csproj.AssemblyReference.cache
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.AssemblyInfoInputs.cache
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.AssemblyInfo.cs
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.csproj.CoreCompileInputs.cache
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.dll
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\refint\ExercicioTres.dll
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.pdb
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ExercicioTres.genruntimeconfig.cache
+D:\Dev em Dobro - portifólio\ExercicioTres\ExercicioTres\obj\Debug\net6.0\ref\ExercicioTres.dll
